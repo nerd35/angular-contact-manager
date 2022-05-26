@@ -1,0 +1,78 @@
+{
+  "contact": [
+    {
+      "id": "D78iugh1",
+      "name": "Umukoro Chinedu",
+      "company": "Recruitrlabs",
+      "email": "patrict@recruitrlabs.io",
+      "mobile": 8140758368,
+      "photo": "https://cdn-icons-png.flaticon.com/512/4018/4018431.png",
+      "groupId": "3",
+      "title": "developer"
+    },
+    {
+      "id": "D79ei8h1",
+      "name": "nerd Uche4",
+      "company": "working",
+      "email": "nerd@gmail.io",
+      "mobile": "+2348140758960",
+      "photo": "https://www.awicons.com/free-icons/download/application-icons/dragon-soft-icons-by-artua.com/png/512/User.png",
+      "groupId": "2",
+      "title": "Sales"
+    },
+    {
+      "id": "D79ei091",
+      "name": "Jame Uche4",
+      "company": "Facebook",
+      "email": "nerd@gmail.io",
+      "mobile": 8140758368,
+      "photo": "https://cdn2.iconfinder.com/data/icons/font-awesome/1792/user-512.png",
+      "groupId": "5",
+      "title": "Marketing"
+    },
+    {
+      "name": "Chinedu Patrick Umukoro",
+      "photo": "https://cdn.icon-icons.com/icons2/1378/PNG/512/avatardefault_92824.png",
+      "email": "nerdmukolo@gmail.com",
+      "mobile": 8140758368,
+      "company": "recruitrlabs",
+      "title": "frontend developer",
+      "groupId": "3",
+      "id": "BX60zL4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friend"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "School"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Sport"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    },
+    {
+      "id": "7",
+      "name": "Sport"
+    },
+    {
+      "id": "8",
+      "name": "Community"
+    }
+  ]
+}
