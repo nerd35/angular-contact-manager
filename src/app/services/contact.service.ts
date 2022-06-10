@@ -9,7 +9,7 @@ import { IContact } from '../models/IContacts';
 })
 export class ContactService {
 
-  private  serverUrl: string = `http://localhost:9000`; // json sever url
+  private  serverUrl: string = `https://contactapis.herokuapp.com/api`; // json sever url
 
   constructor(private httpClient: HttpClient) { }
 
